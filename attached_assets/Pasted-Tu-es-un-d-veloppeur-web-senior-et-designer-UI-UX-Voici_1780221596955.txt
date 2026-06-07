@@ -1,0 +1,62 @@
+Tu es un développeur web senior et designer UI/UX.
+
+Voici le projet GitHub actuel :
+https://github.com/enabeteleazar/Patiss-Orane
+
+Objectif :
+Refondre entièrement ce site pour en faire un site professionnel, moderne et élégant pour une activité de pâtisserie artisanale.
+
+Le site doit donner une image haut de gamme, chaleureuse, gourmande et rassurante.
+
+Nom du projet / marque :
+Patiss’Orane
+
+Type de site :
+Site vitrine professionnel pour pâtisserie.
+
+Pages à créer :
+1. Accueil
+2. À propos
+3. Nos pâtisseries
+4. Prestations / commandes
+5. Galerie
+6. Contact
+
+Style souhaité :
+- Design moderne, premium et gourmand
+- Couleurs douces : crème, beige, rose poudré, chocolat, doré léger
+- Typographie élégante
+- Interface responsive mobile / tablette / ordinateur
+- Animations légères et professionnelles
+- Mise en page claire et aérée
+
+Contenu attendu :
+- Hero section avec grand visuel pâtisserie
+- Slogan professionnel
+- Présentation courte de l’activité
+- Mise en avant des créations : gâteaux, entremets, tartes, pâtisseries personnalisées
+- Section commandes personnalisées : anniversaire, mariage, événement, entreprise
+- Galerie d’images
+- Témoignages clients fictifs mais réalistes
+- Formulaire de contact
+- Boutons d’appel à l’action : “Commander”, “Demander un devis”, “Voir les créations”
+
+Contraintes techniques :
+- Utiliser React ou Next.js selon la structure existante
+- Code propre, bien organisé et maintenable
+- Composants réutilisables
+- CSS moderne avec Tailwind si possible
+- Ne pas casser le projet existant
+- Adapter ou remplacer l’ancienne interface si nécessaire
+- Prévoir des images placeholder propres si aucune image réelle n’est disponible
+
+Objectif final :
+Produire un site prêt à être présenté à des clients, avec une vraie identité visuelle professionnelle.
+
+Ajoute aussi :
+- Un README clair
+- Des instructions pour lancer le projet
+- Une structure de fichiers propre
+- Des commentaires uniquement quand ils sont utiles
+
+Commence par analyser le projet existant, puis propose une refonte complète avant de modifier le code.

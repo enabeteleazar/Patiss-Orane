@@ -1,0 +1,62 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "6iloIaYQMwg5KCwTFQaOK"
+uri = "file://artifacts/patiss-orane/public/images/hero.png"
+type = "image"
+title = "hero pastry showcase"
+
+[[generated]]
+id = "woSBM1EyF_cNhs-mnAKqP"
+uri = "file://artifacts/patiss-orane/public/images/about-portrait.png"
+type = "image"
+title = "artisan portrait"
+
+[[generated]]
+id = "1lmqW2xieUYLXqZ9qaXUV"
+uri = "file://artifacts/patiss-orane/public/images/entremets.png"
+type = "image"
+title = "entremets category"
+
+[[generated]]
+id = "_4GBZ8pNK-dxrhxELox8u"
+uri = "file://artifacts/patiss-orane/public/images/gateaux.png"
+type = "image"
+title = "gateaux category"
+
+[[generated]]
+id = "HJu3yHQS8DqBPg-WuoYtl"
+uri = "file://artifacts/patiss-orane/public/images/tartes.png"
+type = "image"
+title = "tartes category"
+
+[[generated]]
+id = "JrrFEhHfIQS9b4Xj_nUTC"
+uri = "file://artifacts/patiss-orane/public/images/patisseries.png"
+type = "image"
+title = "patisseries category"
+
+[[generated]]
+id = "IJ7mcOduiZZa6cT_7KSQu"
+uri = "file://artifacts/patiss-orane/public/images/gallery-1.png"
+type = "image"
+title = "gallery image 1"
+
+[[generated]]
+id = "rpXRU2CjKbou3y4Okh4x4"
+uri = "file://artifacts/patiss-orane/public/images/gallery-2.png"
+type = "image"
+title = "gallery image 2"
+
+[[generated]]
+id = "mw7eM_FwW9gmvkXh5y15q"
+uri = "file://artifacts/patiss-orane/public/images/gallery-3.png"
+type = "image"
+title = "gallery image 3"
+
+[[generated]]
+id = "5zaxXVHxlfz96F5yH3PMU"
+uri = "file://artifacts/patiss-orane/public/images/gallery-4.png"
+type = "image"
+title = "gallery image 4"

@@ -1,0 +1,31 @@
+kind = "web"
+previewPath = "/"
+title = "Patiss'Orane"
+version = "1.0.0"
+id = "artifacts/patiss-orane"
+router = "path"
+
+[[integratedSkills]]
+name = "react-vite"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19927
+
+[services.development]
+run = "pnpm --filter @workspace/patiss-orane run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/patiss-orane", "run", "build" ]
+publicDir = "artifacts/patiss-orane/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19927"
+BASE_PATH = "/"
